@@ -192,7 +192,7 @@ module.exports = {
     } else {
       possibleOffsets.push({
         value: destinationValue - constantSum,
-        steps: [],
+        steps: criteria.slice(),
       });
     }
 
