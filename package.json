@@ -1,0 +1,25 @@
+{
+  "name": "tfc-forger",
+  "version": "1.0.0",
+  "description": "TerraFirmaCraft Forging Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrackThrough/tfc-forger.git"
+  },
+  "keywords": [
+    "terrafirma",
+    "terrafirmacraft",
+    "minecraft"
+  ],
+  "author": "CrackThrough",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/CrackThrough/tfc-forger/issues"
+  },
+  "homepage": "https://github.com/CrackThrough/tfc-forger#readme"
+}
